@@ -143,6 +143,9 @@ namespace _05_LoopsWithStars
             //    Console.WriteLine();
             //}
 
+
+           
+
             #endregion
 
 
@@ -168,6 +171,11 @@ namespace _05_LoopsWithStars
 
             //}
             #endregion
+
+
+
+
+
 
             Console.Read();
 
